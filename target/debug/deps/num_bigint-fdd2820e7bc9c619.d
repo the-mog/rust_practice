@@ -1,0 +1,11 @@
+/Users/nathimog/play/rust/dailycodings/idioms/target/debug/deps/num_bigint-fdd2820e7bc9c619.rmeta: /Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/lib.rs /Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/macros.rs /Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/bigint.rs /Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/biguint.rs /Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/algorithms.rs /Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/monty.rs /Users/nathimog/play/rust/dailycodings/idioms/target/debug/build/num-bigint-8d9fb47c8e4d7e2c/out/radix_bases.rs
+
+/Users/nathimog/play/rust/dailycodings/idioms/target/debug/deps/num_bigint-fdd2820e7bc9c619.d: /Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/lib.rs /Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/macros.rs /Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/bigint.rs /Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/biguint.rs /Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/algorithms.rs /Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/monty.rs /Users/nathimog/play/rust/dailycodings/idioms/target/debug/build/num-bigint-8d9fb47c8e4d7e2c/out/radix_bases.rs
+
+/Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/lib.rs:
+/Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/macros.rs:
+/Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/bigint.rs:
+/Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/biguint.rs:
+/Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/algorithms.rs:
+/Users/nathimog/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.0/src/monty.rs:
+/Users/nathimog/play/rust/dailycodings/idioms/target/debug/build/num-bigint-8d9fb47c8e4d7e2c/out/radix_bases.rs:
