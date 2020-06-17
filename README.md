@@ -1,2 +1,2 @@
 # rust_practice
-Rust learnings journey
+Phun with Rust. Learning is phun.
